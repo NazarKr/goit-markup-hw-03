@@ -89,7 +89,6 @@ img {
 .navbar-item:not(:last-child) {
   margin-right: 50px;
 }
-  
 
 .contact-list {
   display: flex;
@@ -254,7 +253,6 @@ img {
 }
 
 .team-text {
-
   font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
@@ -269,13 +267,13 @@ img {
   background-color: #2f303a;
 }
 .logo-footer {
-    font-family: 'Raleway';
-      font-style: normal;
-      font-weight: 700;
-      font-size: 26px;
-      line-height: 1.19;
-      letter-spacing: 0.03em;
-      color: var(--accent-text-color);
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: var(--accent-text-color);
 }
 
 .logofooter {
@@ -285,7 +283,6 @@ address {
   margin-top: 20px;
 }
 .footer-item {
-
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -339,9 +336,7 @@ address {
 }
 
 /* < !--portfolio-work--> */
-.portfolio-work {
 
-}
 .portfolio-work-list {
   display: flex;
   flex-wrap: wrap;
